@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "minecraft-server-status",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a4b6ddf5-08ad-4bfc-b91a-80b43df1f889",
+      "database_name": "minecraft-server-status-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
